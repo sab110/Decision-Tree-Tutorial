@@ -45,8 +45,8 @@ The Iris dataset is a small, balanced dataset commonly used for classification t
 ### Step 1: Clone the Repository
 Clone the project repository to your local machine:
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone [<repository-url>](https://github.com/sab110/Decision-Tree-Tutorial.git)
+cd Decision-Tree-Tutorial
 ```
 
 ### Step 2: Install Dependencies
