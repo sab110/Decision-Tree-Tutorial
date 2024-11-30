@@ -117,7 +117,6 @@ The code is organized into clear sections:
 project-directory/
 │
 ├── decision_tree_iris.ipynb       # Jupyter Notebook tutorial
-├── decision_tree_iris.py          # Script version of the tutorial
 ├── requirements.txt               # List of dependencies
 ├── README.md                      # Project documentation
 └── LICENSE                        # License for usage
