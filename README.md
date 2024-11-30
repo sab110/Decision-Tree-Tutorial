@@ -58,12 +58,9 @@ pip install -r requirements.txt
 ### Step 3: Open the Notebook or Script
 Run the notebook or script in your preferred environment:
 ```bash
-jupyter notebook decision_tree_iris.ipynb
+jupyter notebook Decision_Tree_Tutorial.ipynb
 ```
-or
-```bash
-python decision_tree_iris.py
-```
+
 
 ### Step 4: Follow the Tutorial
 The code is organized into clear sections:
